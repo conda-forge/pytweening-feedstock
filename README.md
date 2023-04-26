@@ -1,11 +1,11 @@
-About pytweening
-================
+About pytweening-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytweening-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/asweigart/pytweening
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytweening-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of tweening / easing functions.
 
