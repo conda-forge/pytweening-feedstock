@@ -1,5 +1,5 @@
 {% set name = "pytweening" %}
-{% set version = "1.1.0" %}
+{% set version = "1.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pytweening-{{ version }}.tar.gz
-  sha256: 0d8e14af529dd816ad4aa4a86757dfb5fe2fc2897e06f5db60183706a9370828
+  sha256: 243318b7736698066c5f362ec5c2b6434ecf4297c3c8e7caa8abfe6af4cac71b
 
 build:
   noarch: python
